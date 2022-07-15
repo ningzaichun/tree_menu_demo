@@ -1,4 +1,4 @@
-package com.nzc.tree.mybatis_plus;
+package com.nzc.tree.commons;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder;
